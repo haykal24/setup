@@ -1,5 +1,5 @@
 
-# Panduan Instalasi Portfolio Laravel dan Filament
+# Panduan Instalasi Laravel / Filament
 
 ## Prasyarat
 
