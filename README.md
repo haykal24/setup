@@ -53,16 +53,22 @@
 7. **Build Assets**
 
     ```bash
-    npm run build
+    npm run dev
     ```
 
 8. **Jalankan Server Development**
 
     ```bash
     php artisan serve
+    
+    ```
+9. **membuat storage**
+
+    ```bash
+    php artisan storage:link
     ```
 
-9. **Akses Aplikasi**
+10. **Akses Aplikasi**
     - Buka browser dan akses `http://localhost:8000`
 
 ## Catatan Tambahan
